@@ -3,5 +3,4 @@
   description: Validates that mintlify has nothing obviously broken
   entry: hook/validator.sh
   language: script
-  require_serial: true
   always_run: true
