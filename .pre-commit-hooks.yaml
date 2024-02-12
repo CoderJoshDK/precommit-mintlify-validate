@@ -1,0 +1,7 @@
+- id: mintlify-validate
+  name: mintlify validate
+  description: Validates that mintlify has nothing obviously broken
+  entry: ./validator.sh
+  language: script
+  require_serial: true
+  always_run: true
